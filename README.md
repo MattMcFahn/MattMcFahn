@@ -5,8 +5,6 @@ I'm currently a Data Engineer based in ![img](https://raw.githubusercontent.com/
 My journey in tech began in 2018, teaching myself python to automate boring and repetitive tasks at my first job. 
 Since then, I've segwayed into technical delivery on large enterprise solutions, focussed on data engineering, but touching heavily upon platform engineering and analysis also.
 
-You likely won't find too much on my personal Github - only purely personal work is contained here.
-
 # Tools & Technologies I use every day
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
