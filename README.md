@@ -1,9 +1,6 @@
-# Hey! I'm Matt, analyst turned engineer
+# Hey! I'm Matt, a generic computer person
 
-I'm currently a Data Engineer based in ![img](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png) London, UK. 
-
-My journey in tech began in 2018, teaching myself python to automate boring and repetitive tasks at my first job. 
-Since then, I've segwayed into technical delivery on large enterprise solutions, focussed on data engineering, but touching heavily upon platform engineering and analysis also.
+I write code. I curse my computer even more. Sometimes, people pay me for it.
 
 # Tools & Technologies I use every day
 <p float="left">
